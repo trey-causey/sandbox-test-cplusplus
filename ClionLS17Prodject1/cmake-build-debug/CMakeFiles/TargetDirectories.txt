@@ -1,0 +1,3 @@
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/ClionLS17Prodject1/cmake-build-debug/CMakeFiles/ClionLS17Prodject1.dir
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/ClionLS17Prodject1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/ClionLS17Prodject1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

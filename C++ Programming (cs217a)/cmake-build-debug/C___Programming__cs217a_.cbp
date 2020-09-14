@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="C___Programming__cs217a_"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\C++ Programming (cs217a)\cmake-build-debug\Makefile&quot; VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\C++ Programming (cs217a)\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\C++ Programming (cs217a)\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\C++ Programming (cs217a)\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\C++ Programming (cs217a)\cmake-build-debug\Makefile&quot; VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\C++ Programming (cs217a)\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\C++ Programming (cs217a)\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\C++ Programming (cs217a)\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C___Programming__cs217a_">
+				<Option output="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/cmake-build-debug/C___Programming__cs217a_.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\C++ Programming (cs217a)\cmake-build-debug\Makefile&quot; VERBOSE=1 C___Programming__cs217a_"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\C++ Programming (cs217a)\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\C++ Programming (cs217a)\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\C++ Programming (cs217a)\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C___Programming__cs217a_/fast">
+				<Option output="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/cmake-build-debug/C___Programming__cs217a_.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\C++ Programming (cs217a)\cmake-build-debug\Makefile&quot; VERBOSE=1 C___Programming__cs217a_/fast"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\C++ Programming (cs217a)\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\C++ Programming (cs217a)\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\C++ Programming (cs217a)\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\C++ Programming (cs217a)\cmake-build-debug\Makefile&quot; VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\C++ Programming (cs217a)\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\C++ Programming (cs217a)\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\C++ Programming (cs217a)\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/Sem_5_Prog_Ex/Sem_5_Prog_Ex/ScoreRanges.cpp">
+			<Option target="C___Programming__cs217a_"/>
+		</Unit>
+		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/nameage.cpp">
+			<Option target="C___Programming__cs217a_"/>
+		</Unit>
+		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/practicefor.cpp">
+			<Option target="C___Programming__cs217a_"/>
+		</Unit>
+		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 1/SemOneAssign.cpp">
+			<Option target="C___Programming__cs217a_"/>
+		</Unit>
+		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 1/assignmenttwo.cpp">
+			<Option target="C___Programming__cs217a_"/>
+		</Unit>
+		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 2/SeminarTwoAssign.cpp">
+			<Option target="C___Programming__cs217a_"/>
+		</Unit>
+		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 2/problemfromteach.cpp">
+			<Option target="C___Programming__cs217a_"/>
+		</Unit>
+		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 3/PalindromeNum.cpp">
+			<Option target="C___Programming__cs217a_"/>
+		</Unit>
+		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 3/SemThreeAssign.cpp">
+			<Option target="C___Programming__cs217a_"/>
+		</Unit>
+		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 3/answerto3.cpp">
+			<Option target="C___Programming__cs217a_"/>
+		</Unit>
+		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 4/sem4prog.cpp">
+			<Option target="C___Programming__cs217a_"/>
+		</Unit>
+		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 5/sem5prog.cpp">
+			<Option target="C___Programming__cs217a_"/>
+		</Unit>
+		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 5/teachercode.cpp">
+			<Option target="C___Programming__cs217a_"/>
+		</Unit>
+		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 6/fifthAttempt.cpp">
+			<Option target="C___Programming__cs217a_"/>
+		</Unit>
+		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 6/final.cpp">
+			<Option target="C___Programming__cs217a_"/>
+		</Unit>
+		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 6/firstAttemptMain.cpp">
+			<Option target="C___Programming__cs217a_"/>
+		</Unit>
+		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 6/fourthAttemptMain.cpp">
+			<Option target="C___Programming__cs217a_"/>
+		</Unit>
+		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 6/gerald.cpp">
+			<Option target="C___Programming__cs217a_"/>
+		</Unit>
+		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 6/itemSort.cpp">
+			<Option target="C___Programming__cs217a_"/>
+		</Unit>
+		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 6/readFile.cpp">
+			<Option target="C___Programming__cs217a_"/>
+		</Unit>
+		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 6/secondAttemptMain.cpp">
+			<Option target="C___Programming__cs217a_"/>
+		</Unit>
+		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 6/seventhAttempt.cpp">
+			<Option target="C___Programming__cs217a_"/>
+		</Unit>
+		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 6/sixthAttempt.cpp">
+			<Option target="C___Programming__cs217a_"/>
+		</Unit>
+		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 6/thirdAttemptMain.cpp">
+			<Option target="C___Programming__cs217a_"/>
+		</Unit>
+		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/thecporg.cpp">
+			<Option target="C___Programming__cs217a_"/>
+		</Unit>
+		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

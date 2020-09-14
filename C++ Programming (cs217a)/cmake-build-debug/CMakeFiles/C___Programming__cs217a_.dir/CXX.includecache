@@ -1,0 +1,192 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/Sem_5_Prog_Ex/Sem_5_Prog_Ex/ScoreRanges.cpp
+iostream
+-
+fstream
+-
+
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/nameage.cpp
+iostream
+-
+
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/practicefor.cpp
+iostream
+-
+
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 1/SemOneAssign.cpp
+iostream
+-
+
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 1/assignmenttwo.cpp
+iostream
+-
+
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 2/SeminarTwoAssign.cpp
+iostream
+-
+iomanip
+-
+
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 2/problemfromteach.cpp
+iostream
+-
+iomanip
+-
+
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 3/PalindromeNum.cpp
+iostream
+-
+math.h
+-
+
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 3/SemThreeAssign.cpp
+iostream
+-
+math.h
+-
+
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 3/answerto3.cpp
+iostream
+-
+cmath
+-
+
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 4/sem4prog.cpp
+iostream
+-
+iomanip
+-
+
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 5/sem5prog.cpp
+iostream
+-
+fstream
+-
+
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 5/teachercode.cpp
+iostream
+-
+iomanip
+-
+fstream
+-
+
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 6/fifthAttempt.cpp
+iostream
+-
+vector
+-
+string
+-
+fstream
+-
+iomanip
+-
+
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 6/final.cpp
+iostream
+-
+vector
+-
+string
+-
+fstream
+-
+iomanip
+-
+
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 6/firstAttemptMain.cpp
+iostream
+-
+vector
+-
+string
+-
+fstream
+-
+
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 6/fourthAttemptMain.cpp
+iostream
+-
+vector
+-
+string
+-
+fstream
+-
+iomanip
+-
+
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 6/gerald.cpp
+iostream
+-
+vector
+-
+string
+-
+fstream
+-
+iomanip
+-
+stddef.h
+-
+
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 6/itemSort.cpp
+
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 6/readFile.cpp
+
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 6/secondAttemptMain.cpp
+iostream
+-
+vector
+-
+string
+-
+fstream
+-
+
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 6/seventhAttempt.cpp
+iostream
+-
+vector
+-
+string
+-
+fstream
+-
+iomanip
+-
+
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 6/sixthAttempt.cpp
+iostream
+-
+vector
+-
+string
+-
+fstream
+-
+iomanip
+-
+
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/sem 6/thirdAttemptMain.cpp
+iostream
+-
+vector
+-
+string
+-
+fstream
+-
+
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/thecporg.cpp
+iostream
+-
+

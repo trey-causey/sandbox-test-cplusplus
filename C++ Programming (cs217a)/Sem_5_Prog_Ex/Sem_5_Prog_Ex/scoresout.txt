@@ -1,0 +1,8 @@
+There were 1 students to receive a score in the range of 0 to 24.
+There were 2 students to receive a score in the range of 25 to 49.
+There were 0 students to receive a score in the range of 50 to 74.
+There were 7 students to receive a score in the range of 75 to 99.
+There were 0 students to receive a score in the range of 100 to 124.
+There were 6 students to receive a score in the range of 125 to 149.
+There were 3 students to receive a score in the range of 150 to 174.
+There were 7 students to receive a score in the range of 175 to 200.

@@ -1,0 +1,3 @@
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/cmake-build-debug/CMakeFiles/C___Programming__cs217a_.dir
+C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/C++ Programming (cs217a)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
