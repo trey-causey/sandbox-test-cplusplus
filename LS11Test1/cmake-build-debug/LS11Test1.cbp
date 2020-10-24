@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/cmake-build-debug"/>
+				<Option working_dir="C:/My/Repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 all"/>
-					<CompileFile command="nmake /NOLOGO /f C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/cmake-build-debug"/>
+				<Option working_dir="C:/My/Repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="nmake /NOLOGO /f C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="LS11Test1">
-				<Option output="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/cmake-build-debug/LS11Test1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/cmake-build-debug"/>
+				<Option output="C:/My/Repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/cmake-build-debug/LS11Test1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/My/Repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -44,15 +44,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 LS11Test1"/>
-					<CompileFile command="nmake /NOLOGO /f C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 LS11Test1"/>
+					<CompileFile command="nmake /NOLOGO /f C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="LS11Test1/fast">
-				<Option output="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/cmake-build-debug/LS11Test1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/cmake-build-debug"/>
+				<Option output="C:/My/Repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/cmake-build-debug/LS11Test1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/My/Repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -67,39 +67,39 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 LS11Test1/fast"/>
-					<CompileFile command="nmake /NOLOGO /f C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 LS11Test1/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/cmake-build-debug"/>
+				<Option working_dir="C:/My/Repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
-					<CompileFile command="nmake /NOLOGO /f C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\LS11Test1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/headers/functions.h">
+		<Unit filename="C:/My/Repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/headers/functions.h">
 			<Option target="LS11Test1"/>
 		</Unit>
-		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/headers/gearCalc.h">
+		<Unit filename="C:/My/Repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/headers/gearCalc.h">
 			<Option target="LS11Test1"/>
 		</Unit>
-		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/main.cpp">
+		<Unit filename="C:/My/Repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/main.cpp">
 			<Option target="LS11Test1"/>
 		</Unit>
-		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/src/functions.cpp">
+		<Unit filename="C:/My/Repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/src/functions.cpp">
 			<Option target="LS11Test1"/>
 		</Unit>
-		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/src/gearCalc.cpp">
+		<Unit filename="C:/My/Repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/src/gearCalc.cpp">
 			<Option target="LS11Test1"/>
 		</Unit>
-		<Unit filename="C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/CMakeLists.txt">
+		<Unit filename="C:/My/Repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

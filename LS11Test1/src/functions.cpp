@@ -1,6 +1,7 @@
 //
 // Created by TJC on 9/12/2020.
 //
+#include <string>
 
 int add(int x, int y)
 {
@@ -21,3 +22,8 @@ bool is_leap_year(int year)
 {
   return (year%4 == 0);
 } //end is_leap_year()
+
+std::string testFunction(const std::string& s)
+{
+  return s;
+}

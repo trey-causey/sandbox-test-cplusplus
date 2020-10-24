@@ -38,19 +38,19 @@ NULL=nul
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\My\Aquired Files\Installation Files\CLion-2020.2.1.win\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "C:\My\Aquired Files\Installation Files\CLion-2020.2.1.win\bin\cmake\win\bin\cmake.exe" -E rm -f
+RM = "C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\ClionLS17Prodject1
+CMAKE_SOURCE_DIR = C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\ClionLS17Prodject1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\ClionLS17Prodject1\cmake-build-debug
+CMAKE_BINARY_DIR = C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\ClionLS17Prodject1\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles\ClionLS17Prodject1.dir\depend.make
@@ -63,21 +63,21 @@ include CMakeFiles\ClionLS17Prodject1.dir\flags.make
 
 CMakeFiles\ClionLS17Prodject1.dir\main.cpp.obj: CMakeFiles\ClionLS17Prodject1.dir\flags.make
 CMakeFiles\ClionLS17Prodject1.dir\main.cpp.obj: ..\main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\ClionLS17Prodject1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ClionLS17Prodject1.dir/main.cpp.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\ClionLS17Prodject1.dir\main.cpp.obj /FdCMakeFiles\ClionLS17Prodject1.dir\ /FS -c C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\ClionLS17Prodject1\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\ClionLS17Prodject1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ClionLS17Prodject1.dir/main.cpp.obj"
+	C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\ClionLS17Prodject1.dir\main.cpp.obj /FdCMakeFiles\ClionLS17Prodject1.dir\ /FS -c C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\ClionLS17Prodject1\main.cpp
 <<
 
 CMakeFiles\ClionLS17Prodject1.dir\main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ClionLS17Prodject1.dir/main.cpp.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\ClionLS17Prodject1.dir\main.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\ClionLS17Prodject1\main.cpp
+	C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe > CMakeFiles\ClionLS17Prodject1.dir\main.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\ClionLS17Prodject1\main.cpp
 <<
 
 CMakeFiles\ClionLS17Prodject1.dir\main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ClionLS17Prodject1.dir/main.cpp.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\ClionLS17Prodject1.dir\main.cpp.s /c C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\ClionLS17Prodject1\main.cpp
+	C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\ClionLS17Prodject1.dir\main.cpp.s /c C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\ClionLS17Prodject1\main.cpp
 <<
 
 # Object files for target ClionLS17Prodject1
@@ -90,9 +90,9 @@ ClionLS17Prodject1_EXTERNAL_OBJECTS =
 ClionLS17Prodject1.exe: CMakeFiles\ClionLS17Prodject1.dir\main.cpp.obj
 ClionLS17Prodject1.exe: CMakeFiles\ClionLS17Prodject1.dir\build.make
 ClionLS17Prodject1.exe: CMakeFiles\ClionLS17Prodject1.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\ClionLS17Prodject1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ClionLS17Prodject1.exe"
-	"C:\My\Aquired Files\Installation Files\CLion-2020.2.1.win\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\ClionLS17Prodject1.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\ClionLS17Prodject1.dir\objects1.rsp @<<
- /out:ClionLS17Prodject1.exe /implib:ClionLS17Prodject1.lib /pdb:C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\ClionLS17Prodject1\cmake-build-debug\ClionLS17Prodject1.pdb /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\ClionLS17Prodject1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ClionLS17Prodject1.exe"
+	"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\ClionLS17Prodject1.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100150~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100150~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\ClionLS17Prodject1.dir\objects1.rsp @<<
+ /out:ClionLS17Prodject1.exe /implib:ClionLS17Prodject1.lib /pdb:C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\ClionLS17Prodject1\cmake-build-debug\ClionLS17Prodject1.pdb /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<
 
 # Rule to build all files generated by this target.
@@ -105,6 +105,6 @@ CMakeFiles\ClionLS17Prodject1.dir\clean:
 .PHONY : CMakeFiles\ClionLS17Prodject1.dir\clean
 
 CMakeFiles\ClionLS17Prodject1.dir\depend:
-	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\ClionLS17Prodject1 C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\ClionLS17Prodject1 C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\ClionLS17Prodject1\cmake-build-debug C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\ClionLS17Prodject1\cmake-build-debug C:\My\repos\tests\sandboxes\sandbox-test-cplusplus\ClionLS17Prodject1\cmake-build-debug\CMakeFiles\ClionLS17Prodject1.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\ClionLS17Prodject1 C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\ClionLS17Prodject1 C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\ClionLS17Prodject1\cmake-build-debug C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\ClionLS17Prodject1\cmake-build-debug C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\ClionLS17Prodject1\cmake-build-debug\CMakeFiles\ClionLS17Prodject1.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles\ClionLS17Prodject1.dir\depend
 

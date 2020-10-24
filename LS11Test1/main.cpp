@@ -3,23 +3,58 @@
 #include <iomanip>
 #include "headers/functions.h"
 #include "headers/gearCalc.h"
-
+#include <string>
 #define LOG(x) std::cout << x << std::endl
 
 int main()
 {
+  std::string s = "temp";
+  const auto& len = s.length();
+  auto x = len;
+  //int tempArr[x];
+  int* tempArray = new int[x];
   int d3=8,year=2015,d1=1996,d2=2100;
-  int arr[5]= {12, 34, 13, 14, 16};
   auto* pInt = (double*)&d3;
   char c = 'a';
   char* pChar = &c;
   char d = *pChar;
-  int crankSetGearCount = 3;
-  int cassetteSetGearCount = 8;
   double tripleCrankset4828[3] = {48,38,28};
   double tripleCrankset4222[3] = {42,32,22};
+  double tripleCrankset4224[3] = {42,34,24};
   double doubleCrankset5034[2] = {50,34};
-  double cassette8speed1132[8] = {11,13,14,18,21,24,28,32};
+  double cassette8speed1132[8] = {11,13,15,18,21,24,28,32};
+  double cassette8speed1128[8] = {11,13,15,17,19,21,24,28};
+  double cassette7speed1428[7] = {14,16,18,20,22,24,28};
+
+  std::cout << "\nx is: " << x;
+
+  std::cout << "\n";
+
+for(double drive: doubleCrankset5034) {
+  for(double cassette: cassette8speed1132) {
+    std::cout << drive << ':' << cassette << '=';
+    std::cout << std::setprecision(3) << defineRatio(drive,cassette) << "  /-";
+
+  }
+  std::cout << "\n";
+}
+std::cout << "\t_________________________________________________________________\n";
+for(double drive : tripleCrankset4828) {
+    for (double cassette : cassette8speed1132) {
+      std::cout << drive << ':' << cassette << '=';
+      std::cout << std::setprecision(3) << defineRatio(drive, cassette) << "  /-";
+    }
+    std::cout << "\n";
+  }
+std::cout << "\t_________________________________________________________________\n";
+for(double drive : tripleCrankset4828)   {
+    for(double cassette : cassette8speed1128)
+    {
+      std::cout << drive << ':' << cassette <<'=';
+      std::cout << std::setprecision(3) << defineRatio(drive,cassette) << "  /-";
+    }
+    std::cout << "\n";
+  }
 
   std::cout << "\nthe value of \'d1\' is: " << d1;
   std::cout << "\tthe value of \'d2\' is: " << d2;
@@ -27,46 +62,9 @@ int main()
   std::cout << "\nthe result of \'d1\' * \'d2\' is: " << result;
   bool answer = is_leap_year(year);
   std::cout << "\nresult: " << answer;
-  std::cout << "\nis_ten with 10: " << is_ten(10);
-  std::cout << "\nis_ten with 9: " << is_ten(9);
   std::cout << "\nd1 is: \t" << d1;
   std::cout << "\npointer pInt is: " << pInt;
   std::cout << "\nThe value of the deref pointer is: " << *pChar;
-  std::cout << "\nGear ratio of 28 teeth crank on 28 teeth drive is: " << defineRatio(28, 28);
-  std::cout << "\nGear ratio of 28 teeth crank on 24 teeth drive is: " << defineRatio(28, 24);
-  std::cout << "\nGear ratio of 28 teeth crank on 21 teeth drive is: " << defineRatio(28, 21);
-  std::cout << "\n";
-  std::cout << "The size of this array is: " << std::size(tripleCrankset4828) << "\n";
-  for(int drive = 0;drive < std::size(tripleCrankset4828); drive++)
-  {
-    for(int cassette = 0; cassette < std::size(cassette8speed1132); cassette++)
-    {
-      std::cout << tripleCrankset4828[drive] << ':' << cassette8speed1132[cassette] <<'=';
-      std::cout << std::setprecision(3) << defineRatio(tripleCrankset4828[drive],cassette8speed1132[cassette]) << "\t";
-    }
-    std::cout << "\n";
-  }
-
-  std::cout << "The size of this array is: " << std::size(doubleCrankset5034) << "\n";
-  for(int drive = 0;drive < std::size(doubleCrankset5034); drive++)
-  {
-    for(int cassette = 0; cassette < std::size(cassette8speed1132); cassette++)
-    {
-      std::cout << doubleCrankset5034[drive] << ':' << cassette8speed1132[cassette] <<'=';
-      std::cout << std::setprecision(3) << defineRatio(doubleCrankset5034[drive],cassette8speed1132[cassette]) << "\t";
-    }
-    std::cout << "\n";
-  }
-  std::cout << "The size of this array is: " << std::size(tripleCrankset4222) << "\n";
-  for(int drive = 0;drive < std::size(tripleCrankset4222); drive++)
-  {
-    for(int cassette = 0; cassette < std::size(cassette8speed1132); cassette++)
-    {
-      std::cout << tripleCrankset4222[drive] << ':' << cassette8speed1132[cassette] <<'=';
-      std::cout << std::setprecision(3) << defineRatio(tripleCrankset4222[drive],cassette8speed1132[cassette]) << "\t";
-    }
-    std::cout << "\n";
-  }
 
   return 0;
 

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="scope_practice" targetName="scope_practice" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="97147573-ca5f-4cdb-8edd-d99d28cb4a0f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ClionLS17Prodject1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data Structures (cs321)/sem 1/CandyMac/.idea/CandyMac.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS11Test1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14DesignPatternsPractice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14DesignPatternsPractice/.idea/LS14DesignPatternsPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14DesignPatternsPractice/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14DesignPatternsPractice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14DesignPatternsPractice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14DesignPatternsPractice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14DesignPatternsPractice/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14DesignPatternsPractice/ISP.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14DesignPatternsPractice/LSP.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14DesignPatternsPractice/OCP.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14DesignPatternsPractice/SRP.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14DesignPatternsPractice/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14Test2/.idea/LS14Test2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14Test2/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14Test2/header/ClockType.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14Test2/header/Solution.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14Test2/header/test.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14Test2/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14Test2/src/ClockType.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14Test2/src/Solution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14Test2/src/test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14Test3/.idea/LS14Test3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14Test3/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14Test3/cmake-build-debug/CMakeFiles/LS14Test3.dir/src/Collections.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14Test3/cmake-build-debug/CMakeFiles/LS14Test3.dir/src/SimpleClasses.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14Test3/header/Collections.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14Test3/header/SimpleClasses.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14Test3/header/grade_school.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14Test3/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14Test3/src/Collections.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14Test3/src/SimpleClasses.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14Test3/src/grade_school.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LS14Test4/.idea/LS14Test4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scope_practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/scope_practice.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/scope_practice.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/scope_practice.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/scope_practice.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/scope_practice.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/scope_practice.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/scope_practice.dir/embed.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/scope_practice.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/scope_practice.dir/intermediate.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/scope_practice.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/scope_practice.dir/manifest.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/scope_practice.dir/manifest.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/scope_practice.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/scope_practice.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/scope_practice.dir/src/Scope.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/scope_practice.dir/vc140.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/scope_practice.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/scope_practice.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/scope_practice.ilk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/scope_practice.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/header/Scope.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Scope.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/3.17.3/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/3.17.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/ClionLS17Prodject1.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/ClionLS17Prodject1.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/ClionLS17Prodject1.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/ClionLS17Prodject1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/ClionLS17Prodject1.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/ClionLS17Prodject1.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/ClionLS17Prodject1.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/ClionLS17Prodject1.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/ClionLS17Prodject1.dir/embed.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/ClionLS17Prodject1.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/ClionLS17Prodject1.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/ClionLS17Prodject1.dir/intermediate.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/ClionLS17Prodject1.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/ClionLS17Prodject1.dir/manifest.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/ClionLS17Prodject1.dir/manifest.res" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/ClionLS17Prodject1.dir/vc140.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/ClionLS17Prodject1.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/ClionLS17Prodject1.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ClionLS17Prodject1/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Structures (cs321)/sem 1/CandyMac/CandyMac.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Structures (cs321)/sem 1/CandyMac/CandyMac.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Structures (cs321)/sem 1/CandyMac/Debug/CandyMac.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Structures (cs321)/sem 1/CandyMac/Debug/CandyMac.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Structures (cs321)/sem 1/CandyMac/Debug/CandyMac.exe.embed.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Structures (cs321)/sem 1/CandyMac/Debug/CandyMac.exe.embed.manifest.res" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Structures (cs321)/sem 1/CandyMac/Debug/CandyMac.exe.intermediate.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Structures (cs321)/sem 1/CandyMac/Debug/CandyMac.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Structures (cs321)/sem 1/CandyMac/Debug/CandyMac.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Structures (cs321)/sem 1/CandyMac/Debug/CandyMac.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Structures (cs321)/sem 1/CandyMac/Debug/CandyMac.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Structures (cs321)/sem 1/CandyMac/Debug/candyMachineNew.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Structures (cs321)/sem 1/CandyMac/Debug/candyMachineNew.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Structures (cs321)/sem 1/CandyMac/Debug/cashRegisterImp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Structures (cs321)/sem 1/CandyMac/Debug/cashRegisterImp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Structures (cs321)/sem 1/CandyMac/Debug/dispenserTypeImp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Structures (cs321)/sem 1/CandyMac/Debug/dispenserTypeImp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Structures (cs321)/sem 1/CandyMac/Debug/vc80.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Structures (cs321)/sem 1/CandyMac/Debug/vc80.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/LS11Test1.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/LS11Test1.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/LS11Test1.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/LS11Test1.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/LS11Test1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/LS11Test1.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/LS11Test1.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/LS11Test1.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/LS11Test1.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/LS11Test1.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/LS11Test1.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/LS11Test1.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/LS11Test1.dir/manifest.rc" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/LS11Test1.dir/manifest.rc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/LS11Test1.dir/src/functions.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/LS11Test1.dir/src/functions.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/LS11Test1.dir/src/gearCalc.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/LS11Test1.dir/src/gearCalc.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/LS11Test1.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/LS11Test1.dir/vc140.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/LS11Test1.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/LS11Test1.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/LS11Test1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/LS11Test1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/LS11Test1.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/LS11Test1.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/LS11Test1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/LS11Test1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LS11Test1/src/functions.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../LS11Test1/src/functions.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1iKjujX7ZjGh1NIJC5QAGvDpHEk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LS14DesignPatternsPractice" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\scope_practice\header" />
+      <recent name="C:\My\Repos\tests\sandboxes\sandbox-test-cplusplus\scope_practice\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="scope_practice" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="scope_practice" TARGET_NAME="scope_practice" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="scope_practice" RUN_TARGET_NAME="scope_practice">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97147573-ca5f-4cdb-8edd-d99d28cb4a0f" name="Default Changelist" comment="" />
+      <created>1601663401399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601663401399</updated>
+      <workItem from="1601663404465" duration="3307000" />
+      <workItem from="1603354847290" duration="1317000" />
+      <workItem from="1603533208394" duration="686000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="282" key="FileChooserDialogImpl" timestamp="1603533300775">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="282" key="FileChooserDialogImpl/1920.0.1920.1050/0.0.1920.1050/-1858.0.1858.1080@0.0.1920.1050" timestamp="1603533300775" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1603384746167">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/1920.0.1920.1050/0.0.1920.1050/-1858.0.1858.1080@0.0.1920.1050" timestamp="1603384746167" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1603384746167">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/1920.0.1920.1050/0.0.1920.1050/-1858.0.1858.1080@0.0.1920.1050" timestamp="1603384746167" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1603384746167">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/1920.0.1920.1050/0.0.1920.1050/-1858.0.1858.1080@0.0.1920.1050" timestamp="1603384746167" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1603384746167">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/1920.0.1920.1050/0.0.1920.1050/-1858.0.1858.1080@0.0.1920.1050" timestamp="1603384746167" />
+  </component>
+</project>

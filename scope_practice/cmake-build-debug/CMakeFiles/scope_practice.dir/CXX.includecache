@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/My/Repos/tests/sandboxes/sandbox-test-cplusplus/scope_practice/header/Scope.h
+
+C:/My/Repos/tests/sandboxes/sandbox-test-cplusplus/scope_practice/main.cpp
+iostream
+-
+header/Scope.h
+C:/My/Repos/tests/sandboxes/sandbox-test-cplusplus/scope_practice/header/Scope.h
+

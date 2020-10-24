@@ -6,5 +6,27 @@
 
 #IncludeRegexTransform: 
 
-C:/My/repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/src/gearCalc.cpp
+C:/My/Repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/headers/functions.h
+
+C:/My/Repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/headers/gearCalc.h
+
+C:/My/Repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/main.cpp
+iostream
+-
+array
+-
+iomanip
+-
+headers/functions.h
+C:/My/Repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/headers/functions.h
+headers/gearCalc.h
+C:/My/Repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/headers/gearCalc.h
+string
+-
+
+C:/My/Repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/src/functions.cpp
+string
+-
+
+C:/My/Repos/tests/sandboxes/sandbox-test-cplusplus/LS11Test1/src/gearCalc.cpp
 
